@@ -1,11 +1,14 @@
 ---
 title: "Assignment 0: Intro to R and Github"
 author: "amohamed59"
-output: html_document
-
+output:
+  html_document:
+    toc: true
+    theme: united
 ---
-Assignment 0: Intro to R and Github
+The Assignment:
 --------------------------------------------------------------------------------------------------------------------
+
 The objective of this assignment is to complete all the ToDo's in the document: A short introduction to R.
 
 Document:https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf
@@ -119,7 +122,7 @@ sd(t$a+t$b+t$c)
 ```
 
 ```
-## [1] 3.619028
+## [1] 3.410733
 ```
 
 9.Add these lines to the script le of the previous section.  Try to find out, either by experimenting or by using the help, what the meaning is of rgb the last argument of rgb, lwd, pch, cex.
@@ -145,7 +148,7 @@ sd(t$a+t$b+t$c)
 ```
 
 ```
-## [1] 3.943999
+## [1] 4.050046
 ```
 
 ```r
@@ -179,7 +182,7 @@ mean(l)
 ```
 
 ```
-## [1] 0.7766485
+## [1] 0.7903176
 ```
 
 12.Make  a  graph  with  on  the  x-axis:  today,  Sinterklaas  2014  and  your  next birthday  and  on the y-axis the number of presents you expect on each of these days.
@@ -293,8 +296,8 @@ func2(v1)
 ## [141] 1410.0 1420.0 1430.0 1440.0 1450.0 1460.0 1470.0 1480.0 1490.0 1500.0
 ```
 
-------------------------------------------------------------------------------------------------------------------
 Sources:
+------------------------------------------------------------------------------------------------------------------
 
 http://www.cyclismo.org/tutorial/R/basicOps.html
 
@@ -303,3 +306,4 @@ https://cran.r-project.org/
 http://www.r-bloggers.com/for-loops-and-how-to-avoid-them/
 
 http://www.statmethods.net/management/operators.html
+

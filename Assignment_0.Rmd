@@ -6,7 +6,7 @@ output:
     toc: true
     theme: united
 ---
-Assignment 0: Intro to R and Github
+The Assignment:
 --------------------------------------------------------------------------------------------------------------------
 
 The objective of this assignment is to complete all the ToDo's in the document: A short introduction to R.
@@ -166,8 +166,8 @@ v1=seq(1,150)
 func2(v1)
 ```
 
-------------------------------------------------------------------------------------------------------------------
 Sources:
+------------------------------------------------------------------------------------------------------------------
 
 http://www.cyclismo.org/tutorial/R/basicOps.html
 
@@ -176,3 +176,4 @@ https://cran.r-project.org/
 http://www.r-bloggers.com/for-loops-and-how-to-avoid-them/
 
 http://www.statmethods.net/management/operators.html
+
