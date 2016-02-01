@@ -1,11 +1,11 @@
 ---
 title: "Assignment 0: Intro to R and Github"
 author: "amohamed59"
-output:
-  html_document:
-    toc: true
-    theme: united
+output: html_document
+
 ---
+Assignment 0: Intro to R and Github
+--------------------------------------------------------------------------------------------------------------------
 The objective of this assignment is to complete all the ToDo's in the document: A short introduction to R.
 
 Document:https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf
