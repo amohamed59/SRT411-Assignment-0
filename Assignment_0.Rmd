@@ -1,5 +1,6 @@
 ---
-title: "Assignment 0: Intro to R and Github - amohamed59"
+title: "Assignment 0: Intro to R and Github"
+author: "amohamed59"
 output:
   html_document:
     toc: true

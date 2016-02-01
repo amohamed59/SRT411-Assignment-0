@@ -1,11 +1,10 @@
 ---
-title: "Assignment 0: Intro to R and Github 
+title: "Assignment 0: Intro to R and Github"
 author: "amohamed59"
 output:
   html_document:
     toc: true
     theme: united
-
 ---
 The objective of this assignment is to complete all the ToDo's in the document: A short introduction to R.
 
@@ -120,7 +119,7 @@ sd(t$a+t$b+t$c)
 ```
 
 ```
-## [1] 3.410733
+## [1] 3.619028
 ```
 
 9.Add these lines to the script le of the previous section.  Try to find out, either by experimenting or by using the help, what the meaning is of rgb the last argument of rgb, lwd, pch, cex.
@@ -146,7 +145,7 @@ sd(t$a+t$b+t$c)
 ```
 
 ```
-## [1] 4.050046
+## [1] 3.943999
 ```
 
 ```r
@@ -180,7 +179,7 @@ mean(l)
 ```
 
 ```
-## [1] 0.7903176
+## [1] 0.7766485
 ```
 
 12.Make  a  graph  with  on  the  x-axis:  today,  Sinterklaas  2014  and  your  next birthday  and  on the y-axis the number of presents you expect on each of these days.
