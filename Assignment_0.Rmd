@@ -1,5 +1,13 @@
-Assignment 0: Intro to R and Github
+---
+title: "Assignment 0: Intro to R and Github - amohamed59"
+output:
+  html_document:
+    toc: true
+    theme: united
+---
+The objective of this assignment is to complete all the ToDo's in the document: A short introduction to R.
 
+Document:https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf
 
 1. Compute the difference between 2014 and the year  you  started  at  this  university  and  divide this by the difference between 2014 and the year you  were  born.   Multiply  this with 100  to  get the  percentage  of  your  life  you  have  spent  at this university.  Use brackets if you need them.
 ```{r}
@@ -154,4 +162,13 @@ v1=seq(1,150)
 func2(v1)
 ```
 
+------------------------------------------------------------------------------------------------------------------
+Sources:
 
+http://www.cyclismo.org/tutorial/R/basicOps.html
+
+https://cran.r-project.org/
+
+http://www.r-bloggers.com/for-loops-and-how-to-avoid-them/
+
+http://www.statmethods.net/management/operators.html
